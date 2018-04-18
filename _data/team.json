@@ -657,5 +657,15 @@
 		"github": "https://github.com/lnyntng",
 		"linkedin": "https://www.linkedin.com/in/lnyntng/",
 		"quote": "If I respect myself and believe in what I'm doing, no one can touch me. -Fiona Apple"
-  }
+  },
+	
+  {
+		"name": "Nadia",
+		"lastName": "Aguilar",
+		"gravatarEmail": "nadia@acklenavenue.com",
+		"position": "Junior Designer",
+		"location": "Tegucigalpa, Honduras",
+		"department": ["All Ackleners", "Designers"],
+		"quote": "Graphic design will save the world right after rock and roll does. David Carson"
+  },
 ]
